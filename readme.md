@@ -135,10 +135,14 @@ journey.
 
 ---
 
-## 🔗 Connect
+## 👤 Author
 
-* 💼 LinkedIn — linkedin.com/in/angad-singh-maan
-* 📫 Email — angadmaancse@gmail.com
+**Angad Singh Maan**  
+B.Tech CSE | Cybersecurity | Linux | Networking
+
+[LinkedIn](https://linkedin.com/in/angad-singh-maan) · [GitHub](https://github.com/angadmaan) . [Gmail](mailto:angadmaancse@gmail.com)
+
+---
 
 <p align="center">
   <i>⭐ If you're also on a DSA journey, feel free to explore, learn, and connect.</i>

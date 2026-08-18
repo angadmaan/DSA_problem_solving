@@ -1,0 +1,21 @@
+# VS Code settings
+.vscode/
+
+# Compiled C++ executables
+*.out
+*.exe
+*.o
+
+# macOS system files
+.DS_Store
+
+# CMake build files (if you use CMake later)
+build/
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Debug files
+*.dSYM/

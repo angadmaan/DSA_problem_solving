@@ -24,11 +24,11 @@ int main(){
 
     // string for getting a string into an input or getting an output as string 
 
-    cout << a << b << c << d << e;
+    cout << a <<endl << b<<endl  << c<<endl << d<<endl << e<<endl;
 
     string s1 = "angad";
 
-    cout << s1;
+    cout << s1<<endl;
 
     // but if i enter angad singh maan it can't print full string than we use getline
     
@@ -42,11 +42,11 @@ int main(){
 
     // with getline it will print "angad singh maan"
 
-    cout << "Enter your name";
+    cout << "Enter your name: ";
 
     getline(cin, name);
 
-    cout << name;
+    cout <<name<<endl;
 
 
     // char is used to store a single character 
@@ -55,7 +55,7 @@ int main(){
 
     char alphabet = a;
 
-    cout << alphabet;
+    cout <<alphabet;
 
     return 0;
 }
