@@ -149,5 +149,5 @@ B.Tech CSE | Cybersecurity | Linux | Networking
 </p>
 
 <p align="center">
-  <b>Keep solving. Keep learning. Keep improving. 🚀</b>
+  <b>Always Keep solving. Keep learning. Keep improving. 🚀</b>
 </p>
