@@ -11,5 +11,3 @@ int main(){
     cout <<"The value of n: " << n <<endl;
     return 0;
 }
-
-// cin for input and cout for output
