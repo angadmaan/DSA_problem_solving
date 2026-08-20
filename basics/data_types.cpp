@@ -59,3 +59,5 @@ int main(){
 
     return 0;
 }
+
+// Mainly only these data types are used
