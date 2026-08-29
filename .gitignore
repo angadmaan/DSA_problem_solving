@@ -20,4 +20,10 @@ cmake-build-*/
 # Debug files
 *.dSYM/
 
+# Compiled executables
+*.o
+test
+*.exe
+a.out
+
 ## ignore these files
