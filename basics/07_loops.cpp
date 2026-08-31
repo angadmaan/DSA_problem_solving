@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// For loop
+
+
 int main() {
     for (int i = 1; i <= 10; i = i + 1){      // The value of i increases by 1 after 1 iteration.
         cout << "Angad Singh Maan" << endl;
