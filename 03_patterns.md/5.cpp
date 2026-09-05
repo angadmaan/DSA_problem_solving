@@ -9,7 +9,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void pattern_1 (int n){
+void pattern_5 (int n){
 
      for (int i = 1; i <= n; i++){
 
@@ -28,6 +28,6 @@ int main() {
     int n;
     cout << "Enter the value of n: ";
     cin >> n;
-    pattern_1(n);
+    pattern_5(n);
     return 0;
 }
