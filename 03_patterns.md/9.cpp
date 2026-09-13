@@ -60,6 +60,9 @@ int main() {
     int n;
     cout << "Enter the value of n: ";
     cin >> n;
+
+    // Calling pattern 7 and 8 
+
     pattern_7(n);
     pattern_8(n);
     return 0;
